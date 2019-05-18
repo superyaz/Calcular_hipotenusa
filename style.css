@@ -1,0 +1,23 @@
+body{
+    background-color: azure;
+}
+
+div h1{
+padding: 10px;
+border: 2px;
+font-family:cursive;
+width: auto;
+height: auto;
+box-shadow: 10px 10px #888888;     
+    
+}
+
+#resultado{
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+    box-shadow: 10px 10px #888888;
+    font-size: 40px;
+    text-align: center;
+    -webkit-border-radius: 24px;
+}
